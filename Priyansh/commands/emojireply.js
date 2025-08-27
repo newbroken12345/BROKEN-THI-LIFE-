@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "emojiReply",
+  name: "EmojiReply",
   version: "2.2",
   credit: "Raj",
   description: "Funny emoji auto-reply (no prefix)",
