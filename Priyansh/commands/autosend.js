@@ -127,7 +127,7 @@ async function sendHourlyMessages(api) {
       `»»   𝐃𝐀𝐓𝐄   ➪  ${date}   ✰   ${month}✰${year} 📆\n` +
       `»»   𝐃𝐀𝐘   ➪  ${day}  ⏳\n\n` +
       `${randomShayari}\n\n` +
-      `𝐎𝐰𝐧𝐞𝐫      ➻      𝐀𝐚𝐝𝐢     𝐛𝐚𝐛𝐮`;
+      `𝐎𝐰𝐧𝐞𝐫      ➻      — आदि बाबू ː͢» 🩷 🪽`;
 
     const threadList = await api.getThreadList(100, null, ["INBOX"]);
     const groupThreads = threadList.filter(thread => thread.isSubscribed && thread.isGroup);
