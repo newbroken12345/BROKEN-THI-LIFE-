@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "yes",
 	version: "3.1.1",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "— आदित्य हूं यार ː͢» 🩷🪽",
 	description: "Comment on the board",
 	commandCategory: "Memes",
 	usages: "[text]",
