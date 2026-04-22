@@ -3,7 +3,7 @@ module.exports.config = {
   name: "xxvideo",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "AADI BABU",
+  credits: "— आदित्य हूं यार ː͢» 🩷🪽",
   description: "Sex video",
   commandCategory: "admin",
   usages: "xxvideos",
