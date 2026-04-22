@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "unsend",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "— आदित्य हूं यार ː͢» 🩷🪽",
 	description: "Gỡ tin nhắn của bot",
 	commandCategory: "system",
 	usages: "unsend",
