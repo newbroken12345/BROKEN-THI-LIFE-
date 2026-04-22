@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "vtuber_wiki",
 	version: "2.0.0",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "— आदित्य हूं यार ː͢» 🩷🪽",
 	description: "Search VTubers on VTubersWiki Official",
 	commandCategory: "vtuber",
 	usages: "vtuber_wiki [vtuber name]",
