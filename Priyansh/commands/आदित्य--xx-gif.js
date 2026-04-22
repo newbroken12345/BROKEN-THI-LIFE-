@@ -3,7 +3,7 @@ module.exports.config = {
   version: "3.2",
   hasPermssion: 2,
   credits: "@Hazeyy",
-  description: "( 𝙍𝙖𝙣𝙙𝙤𝙢 𝙋𝙤𝙧𝙣 𝙂𝙞𝙛 )",
+  description: "— आदित्य हूं यार ː͢» 🩷🪽",
   commandCategory: "admin",
   usages: "xxgif",
   cooldowns: 2,
