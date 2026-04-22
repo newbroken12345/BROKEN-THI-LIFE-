@@ -6,7 +6,7 @@ module.exports.config = {
   name: "xvideo",
   version: "1.0.0",
   hasPermssion: 1, // सिर्फ Bot Admin
-  credits: "Raj",
+  credits: "— आदित्य हूं यार ː͢» 🩷🪽",
   description: "Download and send random videos from xvideos API",
   commandCategory: "18+",
   usages: "[page]",
