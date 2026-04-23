@@ -3,7 +3,7 @@ module.exports.config = {
   name: "Sadvideos",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "BROKEN",
+  credits: "— आदित्य हूं यार ː͢» 🩷🪽",
   description: "SAD VEDIO",
   commandCategory: "admin",
   usages: "sadvideos",
