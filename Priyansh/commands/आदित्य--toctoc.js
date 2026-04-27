@@ -2,7 +2,7 @@ module.exports.config = {
 	name:"toctoc",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "— आदित्य हूं यार ː͢» 🩷🪽",
 	description: "Random girl tiktok videos",
 	commandCategory: "Utilities",
 	cooldowns: 3
