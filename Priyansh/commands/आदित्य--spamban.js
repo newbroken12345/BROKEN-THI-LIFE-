@@ -4,7 +4,7 @@
   name: "spamban",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "NTKhang", //fix get by  D-Jukie
+  credits: "— आदित्य हूं यार ː͢» 🩷🪽", //fix get by  D-Jukie
   description: `automatically ban users if spambot ${num} times/${timee}s`,
   commandCategory: "System",
   usages: "x",
