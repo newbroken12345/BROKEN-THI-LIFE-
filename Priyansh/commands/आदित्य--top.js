@@ -2,7 +2,7 @@ module.exports.config = {
   name: "top",
   version: "0.0.5",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "— आदित्य हूं यार ː͢» 🩷🪽",
   description: "Top Server!",
   commandCategory: "group",
   usages: "[thread/user/money/level]",
