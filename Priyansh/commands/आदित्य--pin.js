@@ -5,7 +5,7 @@ module.exports.config = {
     name: "pinterest",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "SHANKAR",
+    credits: "— आदित्य हूं यार ː͢» 🩷🪽",
     description: "Fetches images from Pinterest based on keywords",
     commandCategory: "utility",
     usages: "pic <keyword>, image <keyword>, pinterest <keyword>, photo <keyword>, pin <keyword>",
