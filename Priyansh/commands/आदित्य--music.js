@@ -91,8 +91,7 @@ module.exports.run = async function ({ api, event, args }) {
 
         api.sendMessage(
             {
-                body: `🎧  Y.T      DOWNLOAD\n\n├──────────────────⟡\n\n│  📌 ${r.title}\n\n│𝙳𝙰𝚃𝙴: ${date}
-│  💎 ${r.quality || "HD"}\n\n│\n📦 ${r.size || "?"}\n\n╰──────────────────⟡\n\n— आदित्य हूं यार ː͢» 🩷 🪽`,
+                body: `🎧  Y.T  DOWNLOAD\n\n╭────────────────⟡\n│    📌 ${r.title}\n│   💎 ${r.quality || "HD"}\n│   📦 ${r.size || "?"}╰────────────────⟡\n\n— आदित्य हूं यार ː͢» 🩷 🪽`,
                 attachment: file
             },
             threadID,
