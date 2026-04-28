@@ -1,7 +1,7 @@
 {
   "name": "𝐒𝐇𝐀𝐀𝐍-𝐊𝐇𝐀𝐍",
   "version": "10.1.1",
-  "description": "𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 𝐁𝐎𝐓  𝐌𝐀𝐃𝐄 𝐁𝐘 — आदित्य हूं यार ː͢» 🩷 🪽",
+  "description": "𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 𝐁𝐎𝐓  𝐌𝐀𝐃𝐄 𝐁𝐘 𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍 💚✨",
   "main": "Shaan-Khan-K.js",
   "engines": {
     "node": "20.x",
@@ -26,7 +26,7 @@
     "uzairladla",
     "uzairmtx"
   ],
-  "author": "आदित्य",
+  "author": "SHAAN-KHAN",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/MrUzairXxX/Mtx/issues"
